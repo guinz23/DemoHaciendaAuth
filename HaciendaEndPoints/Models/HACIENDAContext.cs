@@ -22,7 +22,7 @@ namespace HaciendaEndPoints.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=localhost;Initial Catalog=HACIENDA;User ID=sa;Password=reallyStrongPwd123;Connection Timeout=9000;");
+               optionsBuilder.UseSqlServer("Data Source=localhost;Initial Catalog=HACIENDA;User ID=sa;Password=reallyStrongPwd123;Connection Timeout=9000;");
             }
         }
 

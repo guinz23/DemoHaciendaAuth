@@ -26,9 +26,16 @@
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Config\" />
+    <Folder Include="ModelsXml\" />
+    <Folder Include="ModelsXml\FacturaElectronica\" />
+    <Folder Include="ModelsXml\NotaCredito\" />
+    <Folder Include="ModelsXml\FacturaCompra\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Test.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

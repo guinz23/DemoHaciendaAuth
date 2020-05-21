@@ -1,4 +1,5 @@
 /Users/mac/Projects/HaciendaEndPoints/HaciendaEndPoints/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mac/Projects/HaciendaEndPoints/HaciendaEndPoints/bin/Debug/netcoreapp3.1/Test.xml
 /Users/mac/Projects/HaciendaEndPoints/HaciendaEndPoints/bin/Debug/netcoreapp3.1/HaciendaEndPoints.deps.json
 /Users/mac/Projects/HaciendaEndPoints/HaciendaEndPoints/bin/Debug/netcoreapp3.1/HaciendaEndPoints.runtimeconfig.json
 /Users/mac/Projects/HaciendaEndPoints/HaciendaEndPoints/bin/Debug/netcoreapp3.1/HaciendaEndPoints.runtimeconfig.dev.json

@@ -13,9 +13,13 @@ namespace HaciendaEndPoints
         {
          //   Console.WriteLine("ATV");
             EndPoints endPoints = new EndPoints();
+            XmlSigned xml = new XmlSigned();
+         //   xml.xml();
          //   // endPoints.GetToken();
-           endPoints.RefreshToken();
-            await endPoints.GetElectronicBill();
+          // endPoints.RefreshToken();
+           // await endPoints.GetElectronicBill();
+          Company data= xml.DeserializeToObject<Company>("Test.xml");
+            Console.WriteLine(data.Clave);
         }
     }
 }

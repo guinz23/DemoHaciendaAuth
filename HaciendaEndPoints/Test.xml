@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FacturaElectronica xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica" xsi:schemaLocation="https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica.xsd">
+  <Clave>50604052000020351066200100001010000016022110114160</Clave>
+  <CodigoActividad>523304</CodigoActividad>
+  <NumeroConsecutivo>00100001010000016022</NumeroConsecutivo>
+  <FechaEmision>2020-05-04T13:08:18-06:00</FechaEmision>
+  <Emisor>
+    <Nombre>LUIS RETANA PORRAS</Nombre>
+    <Identificacion>
+      <Tipo>01</Tipo>
+      <Numero>203510662</Numero>
+    </Identificacion>
+    <NombreComercial>Luitek</NombreComercial>
+    <Ubicacion>
+      <Provincia>2</Provincia>
+      <Canton>10</Canton>
+      <Distrito>01</Distrito>
+      <OtrasSenas>Costado Norte Del Mercado Municipal Local #3</OtrasSenas>
+    </Ubicacion>
+    <Telefono>
+      <CodigoPais>506</CodigoPais>
+      <NumTelefono>24601183</NumTelefono>
+    </Telefono>
+    <CorreoElectronico>luitekcq@gmail.com</CorreoElectronico>
+  </Emisor>
+  <Receptor>
+    <Nombre>JUAN GABRIEL LOPEZ ROSALES</Nombre>
+    <Identificacion>
+      <Tipo>03</Tipo>
+      <Numero>155800010617</Numero>
+    </Identificacion>
+    <CorreoElectronico>juangabriellopez30@gmail.com</CorreoElectronico>
+  </Receptor>
+  <CondicionVenta>01</CondicionVenta>
+  <PlazoCredito>0</PlazoCredito>
+  <MedioPago>01</MedioPago>
+  <DetalleServicio>
+    <LineaDetalle>
+      <NumeroLinea>1</NumeroLinea>
+      <CodigoComercial>
+        <Tipo>01</Tipo>
+        <Codigo>6925281949821</Codigo>
+      </CodigoComercial>
+      <CodigoComercial>
+        <Tipo>01</Tipo>
+        <Codigo>050036355483</Codigo>
+      </CodigoComercial>
+      <Cantidad>1.000</Cantidad>
+      <UnidadMedida>Unid</UnidadMedida>
+      <UnidadMedidaComercial>Unidad</UnidadMedidaComercial>
+      <Detalle>Audifonos Pastilla TUNE110  Azul JBL Garantia 3 Meses </Detalle>
+      <PrecioUnitario>6991.15044</PrecioUnitario>
+      <MontoTotal>6991.15044</MontoTotal>
+      <SubTotal>6991.15044</SubTotal>
+      <Impuesto>
+        <Codigo>01</Codigo>
+        <CodigoTarifa>08</CodigoTarifa>
+        <Tarifa>13.00</Tarifa>
+        <Monto>908.84956</Monto>
+      </Impuesto>
+      <ImpuestoNeto>908.84956</ImpuestoNeto>
+      <MontoTotalLinea>7900.00000</MontoTotalLinea>
+    </LineaDetalle>
+  </DetalleServicio>
+  <ResumenFactura>
+    <CodigoTipoMoneda>
+      <CodigoMoneda>CRC</CodigoMoneda>
+      <TipoCambio>1.00000</TipoCambio>
+    </CodigoTipoMoneda>
+    <TotalServGravados>0.00000</TotalServGravados>
+    <TotalServExentos>0.00000</TotalServExentos>
+    <TotalMercanciasGravadas>6991.15044</TotalMercanciasGravadas>
+    <TotalMercanciasExentas>0.00000</TotalMercanciasExentas>
+    <TotalGravado>6991.15044</TotalGravado>
+    <TotalExento>0.00000</TotalExento>
+    <TotalVenta>6991.15044</TotalVenta>
+    <TotalVentaNeta>6991.15044</TotalVentaNeta>
+    <TotalImpuesto>908.84956</TotalImpuesto>
+    <TotalComprobante>7900.00000</TotalComprobante>
+  </ResumenFactura>
+</FacturaElectronica>

@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{592F4743-3504-45E5-A69F-3A0579428125}|Default">
+  <MonoDevelop.Ide.ItemProperties.HaciendaEndPoints PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HaciendaEndPoints/ModelsXml/FacturaCompra/FacturaCompra.cs">
+    <Files>
+      <File FileName="HaciendaEndPoints/Program.cs" Line="26" Column="1" />
+      <File FileName="HaciendaEndPoints/EndPoints.cs" />
+      <File FileName="HaciendaEndPoints/Config/Configuration.cs" />
+      <File FileName="HaciendaEndPoints/HaciendaEndPoints.csproj" />
+      <File FileName="HaciendaEndPoints/appsettings.json" />
+      <File FileName="HaciendaEndPoints/Models/VoucherResponse.cs" />
+      <File FileName="HaciendaEndPoints/Models/Token.cs" />
+      <File FileName="HaciendaEndPoints/Models/HACIENDAContext.cs" Line="21" Column="61" />
+      <File FileName=".cshtml" />
+      <File FileName="HaciendaEndPoints/XmlSigned.cs" Line="19" Column="19" />
+      <File FileName="Test.xml" />
+      <File FileName="HaciendaEndPoints/Test.xml" Line="1" Column="1" />
+      <File FileName="HaciendaEndPoints/Company.cs" Line="32" Column="1" />
+      <File FileName="HaciendaEndPoints/Employee.cs" Line="1" Column="1" />
+      <File FileName="HaciendaEndPoints/ModelsXml/FacturaElectronica/FacturaElectronica.cs" Line="1" Column="1" />
+      <File FileName="HaciendaEndPoints/ModelsXml/NotaCredito/NotaCredito.cs" Line="11" Column="1" />
+      <File FileName="HaciendaEndPoints/ModelsXml/FacturaCompra/FacturaCompra.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HaciendaEndPoints" expanded="True">
+            <Node name="HaciendaEndPoints" expanded="True">
+              <Node name="ModelsXml" expanded="True">
+                <Node name="FacturaCompra" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
